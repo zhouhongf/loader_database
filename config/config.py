@@ -24,7 +24,7 @@ class Config:
         'port': 27017,
         'db': GROUP_NAME,
         'username': 'root',
-        'password': 'Zhouhf873@',
+        'password': '123456',
     }
 
     MYSQL_DICT = {
@@ -32,5 +32,5 @@ class Config:
         'port': 3306,
         'db': GROUP_NAME,
         'user': 'root',
-        'password': '20110919Zyy==20170215Zyy',
+        'password': '123456',
     }
